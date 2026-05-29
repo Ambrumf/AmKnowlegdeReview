@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_NAME.github.io/KnowledgeReview",
+  "homepage": "https://ambrumf.github.io/AmKnowlegdeReview",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",

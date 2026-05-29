@@ -17,7 +17,7 @@
 # 安装依赖
 npm install
 
-# 本地开发（访问 http://localhost:5173/KnowledgeReview/）
+# 本地开发（访问 http://localhost:5173/AmKnowlegdeReview/）
 npm run dev
 
 # 构建生产版本
@@ -32,7 +32,7 @@ npm run preview
 1. 修改 `package.json` 中的 `homepage` 为你的 GitHub Pages 地址：
 
 ```json
-"homepage": "https://YOUR_NAME.github.io/KnowledgeReview"
+"homepage": "https://ambrumf.github.io/AmKnowlegdeReview"
 ```
 
 2. 构建并部署：

@@ -46,7 +46,7 @@ export const NotificationService = {
     try {
       new Notification(`📚 ${item.title}`, {
         body: summary,
-        icon: '/KnowledgeReview/vite.svg',
+        icon: '/AmKnowlegdeReview/vite.svg',
         tag: 'knowledge-review-reminder',
       });
     } catch (error) {
